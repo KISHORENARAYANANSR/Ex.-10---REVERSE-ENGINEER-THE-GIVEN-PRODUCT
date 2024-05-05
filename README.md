@@ -34,11 +34,12 @@
 ![IMG_20230605_162607_Converted](https://github.com/JEGADEESH07/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113497131/ef9efa4d-43eb-418f-8ae7-62012c27c4de)
 
 ### Output:
-![ex- 11](https://github.com/JEGADEESH07/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113497131/a6e0a8da-22c5-461f-96e9-bec93118a976)
+![empd img 6](https://github.com/KISHORENARAYANANSR/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148202102/a4d76e5b-7d09-4ac8-a9c5-7f9497c3e04f)
 
 
-### Name:RAJA R
-### Register Number: 212222100041
+
+### Name:KISHORE NARAYANAN S R
+### Register Number: 212223110023
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
